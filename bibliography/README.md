@@ -42,6 +42,8 @@ Article | Title | Year | DOI
 33 | *Interconnection Between Darknets* | 2021 | [![Generic badge](https://img.shields.io/badge/DOI-10.1109/MIC.2020.3037723-<GREEN>.svg)](https://doi.org/10.1109/MIC.2020.3037723) | 
 34 | *A Two-Step Dimensionality Reduction Scheme for Dark Web Text Classification* | 2020 | [![Generic badge](https://img.shields.io/badge/DOI-10.1007/978.981.15.1518.7_25-<GREEN>.svg)](https://doi.org/10.1007/978-981-15-1518-7_25) | 
 35 | *Website Fingerprinting Defenses at the Application Layer* | 2017 | [![Generic badge](https://img.shields.io/badge/DOI-10.1515/popets.2017.0023-<GREEN>.svg)](https://doi.org/10.1515/popets-2017-0023) | 
+36 | *Exploring the Topological Properties of the Tor Dark Web* | 2021 | [![Generic badge](https://img.shields.io/badge/DOI-10.1109/ACCESS.2021.3055532-<GREEN>.svg)](https://doi.org/10.1109/ACCESS.2021.3055532) | 
+37 | *Black Widow Crawler for TOR network to search for criminal patterns* | 2021 | [![Generic badge](https://img.shields.io/badge/DOI-10.1109/ICI2ST51859.2021.00023-<GREEN>.svg)](https://doi.org//10.1109/ICI2ST51859.2021.00023) | 
 44 | *Doppelgangers on the dark web: A large-scale assessment on phishing hidden web services* | 2019 | [![Generic badge](https://img.shields.io/badge/DOI-10.1145/3308558.3313551-<GREEN>.svg)](https://doi.org/10.1145/3308558.3313551) | 
 46 | *Automated categorization of onion sites for analyzing the darkweb ecosystem* | 2017 | [![Generic badge](https://img.shields.io/badge/DOI-10.1145/3097983.3098193-<GREEN>.svg)](https://doi.org/10.1145/3097983.3098193) | 
 
