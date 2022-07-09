@@ -1,7 +1,7 @@
 # Revised researchs discovering onion addresses
 
 ## Methodology
-
+First, to locate works directly related to TOR services, we searched for the pattern *hidden services OR onion services*  in two of the most popular academic search engines, *Google Scholar* and *Scopus*. The former returned 3,290 entries (executed on 24 September 2021) ordered by relevance, while the latter identified 47 results (search executed on 30 September 2021). Considering only peer-reviewed works published at journals and conferences where authors discovered onion services, we selected 35 from the first 30 pages of *Google Scholar* and 11 works from *Scopus*. As 9 papers were found in both searches, the total sample of unique articles reviewed was 37.
 
 ## Results
 
