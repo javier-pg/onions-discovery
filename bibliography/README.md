@@ -49,4 +49,4 @@ Article | Title | Year | DOI
 
 
 ## Extracted data
-See [```data```](data) to explore the features and data format of the datasets.
+See [```data```](https://github.com/javier-pg/onions-discovery/blob/main/bibliography/data) to explore the features and data format of the datasets.
