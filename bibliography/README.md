@@ -63,4 +63,4 @@ Article | Title | Year | DOI
 54 | *Detection and Analysis of Tor Onion Services* | 2020 | [![Generic badge](https://img.shields.io/badge/DOI-10.13052/jcsm224.1439.915-<GREEN>.svg)](https://doi.org/10.13052/jcsm2245-1439.915) |
 
 ## Extracted data
-See [```data```](data) to explore the features and data format of the datasets.
+See [```data```](https://github.com/javier-pg/onions-discovery/tree/main/data) to explore the features and data format of the datasets.
