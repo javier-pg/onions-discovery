@@ -1,7 +1,7 @@
-# Revised researchs discovering onion addresses
+# Research paper discovering onion addresses
 
 ## Methodology
-First, to locate works directly related to TOR services, we searched for the pattern *hidden services OR onion services*  in two of the most popular academic search engines, *Google Scholar* and *Scopus*. The former returned 3,290 entries (executed on 24 September 2021) ordered by relevance, while the latter identified 47 results (search executed on 30 September 2021). Considering only peer-reviewed works published at journals and conferences where authors discovered onion services, we selected 35 from the first 30 pages of *Google Scholar* and 11 works from *Scopus*. As 9 papers were found in both searches, the total sample of unique articles reviewed was 39.
+First, to locate works directly related to TOR services, we searched for the pattern *"dark web sites" OR "dark web services" OR "dark web hidden services" OR "dark web pages" OR "dark web domains" OR "tor sites" OR "tor services" OR "tor pages" OR "tor domains" OR "onion services" OR "onion domains" OR "hidden services"*  in two of the most popular academic search engines, *Google Scholar* and *Scopus*. The former returned 1,000 articles (maximum) on 04 November 2022, while the latter identified 282 results on 10 November 2022. Considering peer-reviewed works published at journals and conferences where authors discovered onion services, the total sample of unique articles reviewed was 54.
 
 ## Results
 
@@ -44,9 +44,23 @@ Article | Title | Year | DOI
 35 | *Website Fingerprinting Defenses at the Application Layer* | 2017 | [![Generic badge](https://img.shields.io/badge/DOI-10.1515/popets.2017.0023-<GREEN>.svg)](https://doi.org/10.1515/popets-2017-0023) | 
 36 | *Exploring the Topological Properties of the Tor Dark Web* | 2021 | [![Generic badge](https://img.shields.io/badge/DOI-10.1109/ACCESS.2021.3055532-<GREEN>.svg)](https://doi.org/10.1109/ACCESS.2021.3055532) | 
 37 | *Black Widow Crawler for TOR network to search for criminal patterns* | 2021 | [![Generic badge](https://img.shields.io/badge/DOI-10.1109/ICI2ST51859.2021.00023-<GREEN>.svg)](https://doi.org//10.1109/ICI2ST51859.2021.00023) | 
-44 | *Doppelgangers on the dark web: A large-scale assessment on phishing hidden web services* | 2019 | [![Generic badge](https://img.shields.io/badge/DOI-10.1145/3308558.3313551-<GREEN>.svg)](https://doi.org/10.1145/3308558.3313551) | 
-46 | *Automated categorization of onion sites for analyzing the darkweb ecosystem* | 2017 | [![Generic badge](https://img.shields.io/badge/DOI-10.1145/3097983.3098193-<GREEN>.svg)](https://doi.org/10.1145/3097983.3098193) | 
-
+38 | *Blocklist Babel: On the Transparency and Dynamics of Open Source Blocklisting* | 2021 | [![Generic badge](https://img.shields.io/badge/DOI-10.1109/TNSM.2021.3075552-<GREEN>.svg)](https://doi.org/10.1109/TNSM.2021.3075552) |
+39 | *Shedding Light on Dark Korea: An In-Depth Analysis and Profiling of the Dark Web in Korea* | 2019 | [![Generic badge](https://img.shields.io/badge/DOI-10.1007/978.3.030.39303.8_27-<GREEN>.svg)](https://doi.org/10.1007/978-3-030-39303-8_27) |
+40 | *A first look at references from the dark to the surface web world: a case study in Tor* | 2022 | [![Generic badge](https://img.shields.io/badge/DOI-10.1007/s10207.022.00580.z-<GREEN>.svg)](https://doi.org/10.1007/s10207-022-00580-z) |
+41 | *The Darkweb: A Social Network Anomaly* | 2021 | [![Generic badge](https://img.shields.io/badge/DOI-10.1007/978.3.030.67318.5_22-<GREEN>.svg)](https://doi.org/10.1007/978-3-030-67318-5_22) |
+42 | *A Synopsis of Critical Aspects for Darknet Research* | 2022 | [![Generic badge](https://img.shields.io/badge/DOI-10.1145/3538969.3544444-<GREEN>.svg)](https://doi.org/10.1145/3538969.3544444) |
+43 | *Doppelgangers on the dark web: A large-scale assessment on phishing hidden web services* | 2019 | [![Generic badge](https://img.shields.io/badge/DOI-10.1145/3308558.3313551-<GREEN>.svg)](https://doi.org/10.1145/3308558.3313551) |
+44 | *Dark Web Content Analysis and Visualization* | 2019 | [![Generic badge](https://img.shields.io/badge/DOI-10.1145/3309182.3309189-<GREEN>.svg)](https://doi.org/10.1145/3309182.3309189) |
+45 | *Automated categorization of onion sites for analyzing the darkweb ecosystem* | 2017 | [![Generic badge](https://img.shields.io/badge/DOI-10.1145/3097983.3098193-<GREEN>.svg)](https://doi.org/10.1145/3097983.3098193) | 
+46 | *Exploring and Identifying Malicious Sites in Dark Web Using Machine Learning* | 2019 | [![Generic badge](https://img.shields.io/badge/DOI-10.1007/978.3.030.36718.3_27-<GREEN>.svg)](https://doi.org/10.1007/978-3-030-36718-3_27) | 
+47 | *Uncovering Tor: An Examination of the Network Structure* | 2018 | [![Generic badge](https://img.shields.io/badge/DOI-10.1155/2018/4231326-<GREEN>.svg)](https://doi.org/10.1155/2018/4231326) |
+48 | *Methodology of dark web monitoring* | 2019 | [![Generic badge](https://img.shields.io/badge/DOI-10.1109/ECAI46879.2019.9042072-<GREEN>.svg)](https://doi.org/10.1109/ECAI46879.2019.9042072) |
+49 | *Dark Web Illegal Activities Crawling and Classifying Using Data Mining Techniques* | 2022 | [![Generic badge](https://img.shields.io/badge/DOI-10.3991/ijim.v16i10.30209-<GREEN>.svg)](https://doi.org/10.3991/ijim.v16i10.30209) |
+50 | *A Tool to Extract Onion Links from Tor Hidden Services and Identify Illegal Activities* | 2022 | [![Generic badge](https://img.shields.io/badge/DOI-10.1007/978.981.16.6723.7_3-<GREEN>.svg)](https://doi.org/10.1007/978-981-16-6723-7_3) |
+51 | *A Link Analysis Algorithm for Identification of Key Hidden Services* | 2021 | [![Generic badge](https://img.shields.io/badge/DOI-10.32604/cmc.2021.016887-<GREEN>.svg)](https://doi.org/10.32604/cmc.2021.016887) |
+52 | *A Broad Evaluation of the Tor English Content Ecosystem* | 2019 | [![Generic badge](https://img.shields.io/badge/DOI-10.1145/3292522.3326031-<GREEN>.svg)](https://doi.org/10.1145/3292522.3326031) |
+53 | *Interaction of Structure and Information on Tor* | 2020 | [![Generic badge](https://img.shields.io/badge/DOI-10.1007/978.3.030.65347.7_25-<GREEN>.svg)](https://doi.org/10.1007/978-3-030-65347-7_25) |
+54 | *Detection and Analysis of Tor Onion Services* | 2020 | [![Generic badge](https://img.shields.io/badge/DOI-10.13052/jcsm224.1439.915-<GREEN>.svg)](https://doi.org/10.13052/jcsm2245-1439.915) |
 
 ## Extracted data
 See [```data```](data) to explore the features and data format of the datasets.
